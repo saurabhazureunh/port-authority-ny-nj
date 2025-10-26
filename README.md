@@ -112,26 +112,3 @@ Zipped, stratified sample (≈5%) of the All Recorded Traffic dataset for fast e
 
 ## 🧩 Project Purpose
 This project streamlines the ingestion, validation, feature engineering, and visualization preparation of multi-source transportation datasets — enabling faster analytics, cleaner modeling inputs, and seamless integration with BI tools like Power BI.
-
----
-
-## 🧠 Tech Stack
-- **Python** (pandas, numpy, matplotlib, seaborn)
-- **Jupyter Notebooks**
-- **Power BI**
-- **SQL-based ETL workflows**
-- *(Optional)* Integration with cloud data environments
-
----
-
-## 📊 Outputs Summary
-| Output Type | Description |
-|--------------|-------------|
-| Raw merged data | For validation and audit |
-| Cleaned datasets | Ready for analysis and dashboards |
-| Predictive datasets | With advanced engineered features |
-| Samples | For testing and BI prototyping |
-
----
-
-*Authored & maintained for data integration, analytics, and visualization of transportation datasets.*
