@@ -1,8 +1,6 @@
 # Port Authority NY & NJ
 The Port Authority Tunnels and Bridges
 
-# Traffic, Bus & Passenger Data Processing Project
-
 This repository contains Jupyter notebooks and datasets designed to clean, merge, analyze, and engineer features for transportation-related data — including Port Authority Bus Terminal (PABT) Bus & Passenger records and traffic mobility data.
 
 ---
