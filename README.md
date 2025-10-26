@@ -107,8 +107,3 @@ Zipped, stratified sample (≈5%) of the All Recorded Traffic dataset for fast e
 - Representative sampling by facility and month.  
 - Includes all engineered columns.  
 - Lightweight, ideal for demos, experimentation, or quick BI integration.
-
----
-
-## 🧩 Project Purpose
-This project streamlines the ingestion, validation, feature engineering, and visualization preparation of multi-source transportation datasets — enabling faster analytics, cleaner modeling inputs, and seamless integration with BI tools like Power BI.
