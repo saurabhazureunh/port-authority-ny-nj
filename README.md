@@ -108,3 +108,21 @@ Zipped, stratified sample (≈5%) of the All Recorded Traffic dataset for fast e
 - Includes all engineered columns.  
 - Lightweight, ideal for demos, experimentation, or quick BI integration.
 
+---
+
+### **Traffic_PowerBI_Ready_Monthly.csv**
+**Description:**  
+Prepared monthly dataset grouped by `['month_year', 'FAC', 'LANE', 'FAC_B']` for Power BI reporting and analysis.
+
+---
+
+### **Traffic_PowerBI_Ready_Daily.csv**
+**Description:**  
+Prepared daily dataset including `['DATE', 'FAC', 'LANE', 'FAC_B', 'Is_Holiday', 'Is_Weekend', 'Day_Name']` for detailed day-level analysis.
+
+---
+
+### **Traffic_PowerBI_Ready_Weekly.csv**
+**Description:**  
+Prepared weekly dataset grouped by `['Year', 'Week_of_Year', 'FAC', 'LANE', 'FAC_B']` for weekly reporting and visualization in Power BI.
+
